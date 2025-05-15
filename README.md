@@ -18,6 +18,6 @@ Analisar os dados de satisfação dos consumidores para identificar padrões, te
 
 ## Como usar
 1. Acesse o dashboard online pelo link:  
-[Visualizar Dashboard no Power BI](https://app.powerbi.com/groups/me/reports/a8476a2c-172a-4e0c-a7f4-0eeb1406a4ff/d8bfc8ee60cce155461e?experience=power-bi)  
-2. Navegue pelas páginas para explorar as diferentes análises e visuais interativos.  
+https://app.powerbi.com/view?r=eyJrIjoiZDU4ODdjN2UtODQ5Ny00ZmNmLTlkYzMtYjdkZjg0NDFmNTVlIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9
 
+2. Navegue pelas páginas para explorar as diferentes análises e visuais interativos.  
