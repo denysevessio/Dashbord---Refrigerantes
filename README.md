@@ -14,7 +14,12 @@ Analisar os dados de satisfação dos consumidores para identificar padrões, te
 ## Principais Insights
 - Ranking das marcas segundo a satisfação dos consumidores  
 - Análise comparativa entre diferentes perfis de consumidores  
-- Identificação de pontos fortes e fracos das marcas  
+- Identificação de pontos fortes e fracos das marcas
+
+## Prévia do Dashboard
+
+![image](https://github.com/user-attachments/assets/3f6e2881-d784-46ce-aa88-e3f91281e908)
+
 
 ## Como usar
 1. Acesse o dashboard online pelo link:  
